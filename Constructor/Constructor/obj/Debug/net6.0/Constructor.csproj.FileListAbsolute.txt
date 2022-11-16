@@ -1,0 +1,15 @@
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\bin\Debug\net6.0\Constructor.exe
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\bin\Debug\net6.0\Constructor.deps.json
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\bin\Debug\net6.0\Constructor.runtimeconfig.json
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\bin\Debug\net6.0\Constructor.dll
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\bin\Debug\net6.0\Constructor.pdb
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.csproj.AssemblyReference.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfoInputs.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.AssemblyInfo.cs
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.csproj.CoreCompileInputs.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.dll
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\refint\Constructor.dll
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.pdb
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\Constructor.genruntimeconfig.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\Constructor\obj\Debug\net6.0\ref\Constructor.dll
