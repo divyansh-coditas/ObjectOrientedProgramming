@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{EFB96F8B-2C0F-4BCE-A3C6-196DB372E86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor", "Constructor\Constructor.csproj", "{EFB96F8B-2C0F-4BCE-A3C6-196DB372E86B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicDestroyers", "MagicDestroyers\MagicDestroyers.csproj", "{BB016550-B791-46AE-8CEA-CFB3F8A47C2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EFB96F8B-2C0F-4BCE-A3C6-196DB372E86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFB96F8B-2C0F-4BCE-A3C6-196DB372E86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFB96F8B-2C0F-4BCE-A3C6-196DB372E86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB016550-B791-46AE-8CEA-CFB3F8A47C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB016550-B791-46AE-8CEA-CFB3F8A47C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB016550-B791-46AE-8CEA-CFB3F8A47C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB016550-B791-46AE-8CEA-CFB3F8A47C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

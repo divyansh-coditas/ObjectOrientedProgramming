@@ -1,0 +1,15 @@
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.exe
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.deps.json
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.runtimeconfig.json
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.dll
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\bin\Debug\net6.0\MagicDestroyers.pdb
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.csproj.AssemblyReference.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.AssemblyInfoInputs.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.AssemblyInfo.cs
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.csproj.CoreCompileInputs.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.dll
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\refint\MagicDestroyers.dll
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.pdb
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\MagicDestroyers.genruntimeconfig.cache
+C:\c#-Udemy\ObjectOrientedProgramming\Constructor\MagicDestroyers\obj\Debug\net6.0\ref\MagicDestroyers.dll
